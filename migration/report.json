@@ -1,0 +1,16 @@
+{
+  "source_rows": 113,
+  "clean_records": 89,
+  "rejected_rows": 3,
+  "duplicates_merged": 21,
+  "fixes_applied": {
+    "whitespace_trimmed": 31,
+    "phone_reformatted": 74,
+    "date_normalized": 84,
+    "status_case_fixed": 74,
+    "name_case_fixed": 32,
+    "email_normalized": 63,
+    "name_order_flipped": 24,
+    "duplicate_merged": 21
+  }
+}
